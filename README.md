@@ -9,5 +9,6 @@ Our project will focus primarily on simulating COVID testing environments run by
 
 Inside my Repo, I will be including:
 
-1. [Notebook](https://github.com/iw30/UHS-COVID-Testing/blob/main/INDENG_174_project.ipynb): This is my code I used for the project.
-2. [Report](https://github.com/iw30/UHS-COVID-Testing/blob/main/174_Final_Report.pdf):This is my report for the project. 
+1. [Python Notebook](https://github.com/iw30/UHS-COVID-Testing/blob/main/INDENG_174_project.ipynb): This is my code I used for the project.
+2. [Simio](https://github.com/iw30/UHS-COVID-Testing/blob/main/FinalProject1.spfx): This is how I simulate the COVID testing environments using Simio. 
+3. [Report](https://github.com/iw30/UHS-COVID-Testing/blob/main/174_Final_Report.pdf):This is my report for the project. 
